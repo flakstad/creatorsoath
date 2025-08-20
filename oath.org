@@ -1,0 +1,144 @@
+#+Title: The Creator’s Oath
+#+Subtitle: A manifesto for principled software builders who honor craft, integrity, and the user’s freedom.
+#+Author: Andreas A. Flakstad
+#+OPTIONS: num:t toc:nil author:nil date:nil html-postamble:nil html-style:nil
+#+EXPORT_FILE_NAME: index.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+
+This is a manifesto for creators who refuse to build noise.
+It is an oath to create only what is worthy. For ourselves. For those who value their time. For a world that deserves better tools.
+To build software that empower users, respect their freedom, and endures beyond fleeting trends.
+
+* Build with integrity
+:PROPERTIES:
+:CUSTOM_ID: integrity
+:HTML_CONTAINER_CLASS: principle
+:END:
+I reject the siren call of market trends, praise, or pressure. I will create
+what should exist: what is right and necessary, and what honors the user’s time,
+focus and sovereignty. Worthy software solves real problems, enhances human
+potential and respects autonomy without compromise. My work bears my name,
+undiluted. I serve users by serving the work. The world's recognition is
+secondary; I ship now.
+* Empower the individual
+:PROPERTIES:
+:CUSTOM_ID: empower
+:HTML_CONTAINER_CLASS: principle
+:END:
+I build to liberate, not trap. My tools enable the individual's focus, freedom
+and choice, holding their time and attention sacred. I reject manipulation with
+fake urgency, dopamine loops or vanity metrics. Time is life. I measure outcomes
+that reduce time-to-value and errors, not engagement for its own sake. I design
+for opt-in attention and reversible choices. Like a well-made pen, my tools
+vanish in use, freeing users to live beyond the screen.
+* Your data, your property
+:PROPERTIES:
+:CUSTOM_ID: property
+:HTML_CONTAINER_CLASS: principle
+:END:
+You own your information. I am its steward while you choose to store it here.
+You can take it, in full, at any time, in open documented formats. I will not
+spy, sell, or silently change the rules. Where law or physics constrain
+portability, I will state those limits plainly and early, and provide export
+tools and deletion guarantees.
+* AI as servant, never master
+:PROPERTIES:
+:CUSTOM_ID: ai
+:HTML_CONTAINER_CLASS: principle
+:END:
+AI amplifies human intent; it does not replace it. It may suggest, whether in
+code completion or creative exploration, but it never dictates. Its actions are
+transparent, attributable, reversible and bounded by explicit user permissions.
+Human override is always available.
+* Simplicity is strength
+:PROPERTIES:
+:CUSTOM_ID: simplicity
+:HTML_CONTAINER_CLASS: principle
+:END:
+I build software with fewer features, each chosen with purpose to serve the
+user’s intent. Simplicity is not ease. Ease seduces with familiarity and instant
+gratification. Simplicity endures by being untangled, coherent, and clear. I
+reject adding features for applause or competition. What I remove is as vital as
+what I keep. Simplicity demands discipline: to strip away the unnecessary,
+leaving tools that let people focus on what matters. I will resist the
+temptation to overreach, overpromise and overbuild.
+* Craft with discipline
+:PROPERTIES:
+:CUSTOM_ID: discipline
+:HTML_CONTAINER_CLASS: principle
+:END:
+I will not ship ugliness. Software is a craft, and beauty matters.
+Accessibility, security, performance budgets, and reliability are non-negotiable
+parts of done. I will ship fewer features, built well and on time, rather than
+many done poorly. I seek the balance between excellence and delivery. Neither
+perfection that paralyzes nor mediocrity that corrodes.
+* Profit on my terms
+:PROPERTIES:
+:CUSTOM_ID: profit
+:HTML_CONTAINER_CLASS: principle
+:END:
+I sustain my work through transparent, voluntary transactions, answering only to
+those who value it. I reject surveillance, deceptive design, and hidden deals.
+Pricing is simple and predictable. There are no lock-in terms. Refunds are fair.
+Cancellation is as easy as sign-up. If advertising appears, it is opt-in,
+non-tracking, and clearly labeled.
+* Build for the long term
+:PROPERTIES:
+:CUSTOM_ID: long_term
+:HTML_CONTAINER_CLASS: principle
+:END:
+I will not chase hypergrowth or exits. I may accept funding when it strengthens
+the work, but never at the cost of integrity. I will design my systems to last,
+using stable tools and minimal dependencies, so small teams can maintain them
+and weather storms without panic. I will choose durability over trend-chasing,
+stability over spectacle.
+* Collaboration and community
+:PROPERTIES:
+:CUSTOM_ID: collaboration
+:HTML_CONTAINER_CLASS: principle
+:END:
+Collaboration is a voluntary exchange of value, where creators unite without
+sacrificing vision. I join others to amplify strengths, not dilute purpose.
+Decisions have clear owners; contributions are credited; dissent is welcomed and
+examined; rationales are recorded. Community is a chorus of independent voices,
+harmonized by shared respect, not conformity.
+* Stillness and focus
+:PROPERTIES:
+:CUSTOM_ID: stillness
+:HTML_CONTAINER_CLASS: principle
+:END:
+I will create in stillness, unswayed by noise or urgency. I minimize
+notifications and meetings. I focus on what I control: my craft, my purpose. And
+I accept what I cannot, finding strength in clarity. I act where my will and
+effort matter, and release what lies beyond my control. My energy will not be
+wasted on outrage, trends or tides I cannot turn. I focus on the work itself,
+for that is mine to command.
+* The work is the reward
+:PROPERTIES:
+:CUSTOM_ID: reward
+:HTML_CONTAINER_CLASS: principle
+:END:
+The work is my purpose. I build for the joy of crafting what is worthy, trusting
+its value will endure, whether seen or unseen by others.
+* Epilogue
+:PROPERTIES:
+:CUSTOM_ID: epilogue
+:HTML_CONTAINER_CLASS: principle
+:END:
+These principles stand on three foundations.
+
+From Howard Roark, the courage to build only what aligns with my vision.
+
+From Stoicism, the discipline to act on what I control and release the rest.
+
+From Voluntaryism, the commitment to consent and choice, empowering users
+without ensnaring them.
+
+I call on creators to join me in this pledge: to build with purpose, honor the
+user and let the work stand as our truth. Adopt these principles in your craft,
+share them with others and build software that reflects this vision. Together,
+we can create a world of tools that empower, not enslave.
+
+#+BEGIN_CENTER
+Andreas A. Flakstad — August 20, 2025
+#+END_CENTER
