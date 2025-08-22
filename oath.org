@@ -84,8 +84,7 @@ perfection that paralyzes nor mediocrity that corrodes.
 I sustain my work through transparent, voluntary transactions, answering only to
 those who value it. I reject surveillance, deceptive design, and hidden deals.
 Pricing is simple and predictable. There are no lock-in terms. Refunds are fair.
-Cancellation is as easy as sign-up. If advertising appears, it is opt-in,
-non-tracking, and clearly labeled.
+Cancellation is as easy as sign-up.
 * Build for the long term
 :PROPERTIES:
 :CUSTOM_ID: long_term
@@ -144,5 +143,5 @@ share them with others and build software that reflects this vision. Together,
 we can create a world of tools that empower, not enslave.
 
 #+BEGIN_CENTER
-Andreas A. Flakstad — August 20, 2025
+Andreas Flakstad — August 20, 2025
 #+END_CENTER
