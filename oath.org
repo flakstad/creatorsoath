@@ -128,15 +128,6 @@ its value will endure, whether seen or unseen by others.
 :CUSTOM_ID: epilogue
 :HTML_CONTAINER_CLASS: principle
 :END:
-These principles stand on three foundations.
-
-From Howard Roark, the courage to build only what aligns with my vision.
-
-From Stoicism, the discipline to act on what I control and release the rest.
-
-From Voluntaryism, the commitment to consent and choice, empowering users
-without ensnaring them.
-
 I call on creators to join me in this pledge: to build with purpose, honor the
 user and let the work stand as our truth. Adopt these principles in your craft,
 share them with others and build software that reflects this vision. Together,
